@@ -1,4 +1,6 @@
 # sporadic7234.github.io
-a development version of my breakout clone
+A development version of my breakout clone
 
-will be replaced with the complete game when its done
+Will be replaced with the complete game when its done
+
+2/8/24: The game has been uploaded in a somewhat complete state. I might add or change a couple of things though
