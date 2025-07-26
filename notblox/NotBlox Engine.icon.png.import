@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cfl3gud84jlc2"
-path="res://.godot/imported/NotBlox Engine.icon.png-efa135ebb956f8ea7b5d9181fa4450d6.ctex"
+uid="uid://byaiyvjxxugbg"
+path="res://.godot/imported/NotBlox Engine.icon.png-f8a4736d127a708eccd83d99a961d6f7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Exports/Web 7-25-2025/NotBlox Engine.icon.png"
-dest_files=["res://.godot/imported/NotBlox Engine.icon.png-efa135ebb956f8ea7b5d9181fa4450d6.ctex"]
+source_file="res://Exports/Web 7-26-2025/NotBlox Engine.icon.png"
+dest_files=["res://.godot/imported/NotBlox Engine.icon.png-f8a4736d127a708eccd83d99a961d6f7.ctex"]
 
 [params]
 
